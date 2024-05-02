@@ -1,5 +1,9 @@
 # Peripheral-Project
-Traffic Signal control & safety
+
+Traffic Signal control & safety -by 1907001 & 1907002
+report -[Lab Report.pdf](https://github.com/shafiatunnurshimu23/Peripheral-Project/files/15190549/Lab.Report.pdf)
+
+images
 ![1](https://github.com/shafiatunnurshimu23/Peripheral-Project/assets/126905316/ba378e1f-fe8c-4146-b0ed-0545142003e5)
 
 ![2](https://github.com/shafiatunnurshimu23/Peripheral-Project/assets/126905316/bf2f0714-3c15-4eb0-a4d4-ba22492439fa)
